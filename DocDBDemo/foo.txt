@@ -1,0 +1,60 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 6859-7183
+
+ Directory of C:\democode\DocDBDemo
+
+07/09/2018  01:52 PM    <DIR>          .
+07/09/2018  01:52 PM    <DIR>          ..
+02/28/2017  11:36 AM               291 09d2bb28e9c54bc581492d542789f2ad.json
+02/28/2017  11:36 AM               307 0a278402b6f64d988b34103eef2f9d80.json
+02/28/2017  11:36 AM               304 1240d84bd5f44074b36bd1977bc9062c.json
+02/28/2017  11:36 AM               305 1b5c9eca01504e8e8ba5d0e5a4e09c53.json
+02/28/2017  11:36 AM               303 1de56f1332e246808ceda831ac92022f.json
+02/28/2017  11:36 AM               328 23a2fad0b43548d4b0229b0392f399fd.json
+02/28/2017  11:36 AM               307 3b2a5b2bf3ca44d3956c87a26980aa47.json
+02/28/2017  11:36 AM               291 3f97655010ca469b96436b8813e5f37e.json
+02/28/2017  11:36 AM               307 4b69cfe010fd4e84bfc2228e1188cbd4.json
+02/28/2017  11:36 AM               303 4e5818904600431e8ff077d408547246.json
+02/28/2017  11:36 AM               309 4ef72aba2a00466090b7f6b3888fd1d2.json
+02/28/2017  11:36 AM               307 5b913f3a23aa4f21b5775d18b5d68abd.json
+02/28/2017  11:36 AM               321 5bc394024b624225bd19bea3269a5a68.json
+02/28/2017  11:36 AM               317 5c89c87d34e64f37a3c8fae3fb86d8fc.json
+02/28/2017  11:36 AM               313 67b463b031b24c84b0fbb5889349cdc0.json
+02/28/2017  11:36 AM               302 69f9173b21a7416eb2d654ddc9e58afd.json
+02/28/2017  11:36 AM               316 6a4f0022f9d749889f099eef61316af6.json
+02/28/2017  11:36 AM               296 6e98fb47d74048fa9ebf4a5be8775a05.json
+02/28/2017  11:36 AM               297 6f07254615b74f39972a468c51db98a3.json
+02/28/2017  11:36 AM               314 6f37c81981194575b5775e863d7c2de9.json
+02/28/2017  11:36 AM               312 71e50777f02d4ead828871af8e0d8981.json
+02/28/2017  11:36 AM               307 73567f1c275a49b0ae191d3d71b90507.json
+02/28/2017  11:36 AM               294 7c0fb17e45764ac5aefaabfbf87c0f70.json
+02/28/2017  11:36 AM               305 84054508c93d40fc94d67d6e844c506f.json
+02/28/2017  11:36 AM               315 8913563905b844bda309fbb0a6c4dadd.json
+02/28/2017  11:36 AM               317 8e683a069a264056b8d3cd823eb0dbe2.json
+02/28/2017  11:36 AM               308 9385de0d24d7404d87f767039c0bdc80.json
+02/28/2017  11:36 AM               307 9690cd9d6f6e4fa9a47729e5a91eecb2.json
+02/28/2017  11:36 AM               310 97a2f28923c442d780af683f8dbd660b.json
+02/28/2017  11:36 AM               313 9a8cd39addf7489aab6cdba3a34fe769.json
+02/28/2017  11:36 AM               315 a26d5fcb81634238bc3d92811a72d7e8.json
+02/28/2017  11:36 AM               310 a2e8c5c15d2141b28e95d91ed792f688.json
+02/28/2017  11:36 AM               318 a551e5c83cb144a583719a65f96ae472.json
+02/28/2017  11:36 AM               307 ba53a3f3ed4a469a8237d72afdf0a1c3.json
+02/28/2017  11:36 AM               326 bb40b726049e473fbc29fa4a477fcb97.json
+02/28/2017  11:36 AM               315 bb97b63d39b24df68f8b401b6fe56856.json
+02/28/2017  11:36 AM               305 bd80b9d085d54639af2f10e3c262e35e.json
+02/28/2017  11:36 AM               301 c1cebfd27dfd4559aad601feeed50155.json
+02/28/2017  11:36 AM               313 c28462cc181b4d38a27712b905346052.json
+02/28/2017  11:36 AM               311 c64f1d379f7a4a079ade4c8a88e957fa.json
+02/28/2017  11:36 AM               319 ca4d641a69594dbbaaef53bc91677147.json
+02/28/2017  11:36 AM               323 cc0e857a1f45435dba2780bc559d82e7.json
+02/28/2017  11:36 AM               311 d4b6835c7fc2496680fc678a900ab734.json
+02/28/2017  11:36 AM               301 e53072057d314bc9b36c89a8350048f3.json
+02/28/2017  11:36 AM               302 e913fe543490432f871bc42019663518.json
+02/28/2017  11:36 AM               306 ed0a92c6f1954216871a9da43c5ddd8d.json
+02/28/2017  11:36 AM               313 ede407769a8b44cdb2bdcd4f4e2065b8.json
+02/28/2017  11:36 AM               302 ef0365fb40c04bb6a3ffc4bc77c905fd.json
+02/28/2017  11:36 AM               319 f1ca3044f17149f3bc61f7b9c78a26df.json
+02/28/2017  11:36 AM               318 f75f949ea8de466a9ef2bdb7ce065ac8.json
+07/09/2018  01:52 PM                 0 foo.txt
+              51 File(s)         15,461 bytes
+               2 Dir(s)  189,735,526,400 bytes free
