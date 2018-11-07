@@ -1,0 +1,11 @@
+C:\democode\ApprovalDemo\ApprovalDemo\bin\Debug\netcoreapp2.0\ApprovalDemo.deps.json
+C:\democode\ApprovalDemo\ApprovalDemo\bin\Debug\netcoreapp2.0\ApprovalDemo.runtimeconfig.json
+C:\democode\ApprovalDemo\ApprovalDemo\bin\Debug\netcoreapp2.0\ApprovalDemo.runtimeconfig.dev.json
+C:\democode\ApprovalDemo\ApprovalDemo\bin\Debug\netcoreapp2.0\ApprovalDemo.dll
+C:\democode\ApprovalDemo\ApprovalDemo\bin\Debug\netcoreapp2.0\ApprovalDemo.pdb
+C:\democode\ApprovalDemo\ApprovalDemo\obj\Debug\netcoreapp2.0\ApprovalDemo.csprojResolveAssemblyReference.cache
+C:\democode\ApprovalDemo\ApprovalDemo\obj\Debug\netcoreapp2.0\ApprovalDemo.csproj.CoreCompileInputs.cache
+C:\democode\ApprovalDemo\ApprovalDemo\obj\Debug\netcoreapp2.0\ApprovalDemo.AssemblyInfoInputs.cache
+C:\democode\ApprovalDemo\ApprovalDemo\obj\Debug\netcoreapp2.0\ApprovalDemo.AssemblyInfo.cs
+C:\democode\ApprovalDemo\ApprovalDemo\obj\Debug\netcoreapp2.0\ApprovalDemo.dll
+C:\democode\ApprovalDemo\ApprovalDemo\obj\Debug\netcoreapp2.0\ApprovalDemo.pdb
